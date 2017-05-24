@@ -1,0 +1,30 @@
+div {
+	background-color: #546d7c;
+    padding: 5px;
+    margin: 0 auto;
+    max-width: 900px;
+
+}
+.contactForm {
+	display:flex;
+	justify-content: center;
+}
+
+.contactItem {
+	display: flex;
+    align-items: center;
+    margin: 10px;
+    background-color: #6589a0;
+}
+
+p {
+	padding: 10px;
+}
+
+img {
+	height: 100px;
+}
+
+div ul {
+	padding: 0px;
+}
