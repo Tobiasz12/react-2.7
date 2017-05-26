@@ -1,0 +1,23 @@
+{
+  "name": "tobiasz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobiasz12/react-2.8.git"
+  },
+  "author": "tobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobiasz12/react-2.8/issues"
+  },
+  "homepage": "https://github.com/Tobiasz12/react-2.8#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
