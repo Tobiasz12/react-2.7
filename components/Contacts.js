@@ -13,7 +13,7 @@
       //React.createElement('ul', {className: 'contactsList'}, contacts)
       <ul className={"contactsList"}>
         {contacts}
-      <ul>
+      </ul>
     );
   }
 });
