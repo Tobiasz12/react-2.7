@@ -17,9 +17,7 @@
     "url": "https://github.com/Tobiasz12/react-2.8/issues"
   },
   "homepage": "https://github.com/Tobiasz12/react-2.8#readme",
-  "dependencies": {
-    "http-server": "^0.10.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "http-server": "^0.10.0"
   }
